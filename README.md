@@ -6,3 +6,5 @@ This is a change to the README.md on Dec 30 2022.
 This is the Year the Lord has made, I will rejoice and be glad in it.
 This is a change from mobile phone!
 I hope to add a LeetCode solution to Github. Started new LeetCode Problem.
+The Linked lists are new to me, so I look forward to explaining them once 
+I get an understanding.
