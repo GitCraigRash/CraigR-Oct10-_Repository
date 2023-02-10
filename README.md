@@ -10,3 +10,4 @@ The Linked lists are new to me, so I look forward to explaining them.
 Uploading text to keep in practice. 
 Practicing updating the repository from a second source, 
 bringing out of synce with my comp local repository.
+Working on using .read_csv for local files.
