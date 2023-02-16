@@ -1,0 +1,20 @@
+Simple Chatbot
+
+pip install nlkt
+
+from nltk.chat.util import Chapt, reflections
+
+Plasma_Bolt=200
+Shields=100
+Armor=115
+
+pairs = [
+    ["(Hello|hi|sup|hey|greetings)",["(Hello!)"]],
+    ["(Commence 
+Countdown)",["(10..9..8..7..6..5..4..3..2..1..Ignition)"]],
+    ["(Set a course)",["(Course set for Alpha Centari)"]],
+    ["(Damage Report)",["Health:"+str((Armor+Shields)-Plasma_Bolt)]]
+        ]
+chat=Chat(pairs,reflections)
+chat.converse()
+
