@@ -1,0 +1,21 @@
+Findings in Statistics
+How do you tell if a sub-group of your population is significantly 
+different than your overal population? 
+
+In my example, is  the weight of hunted deer in Maryland significantly 
+different than the weight of hunted deer in North America? 
+
+To answer this question, we eventually need to measure the mean weight 
+of deer in MD against the deer in N.America. But at what point do we say 
+there is a significant difference? Wouldn't the means always be different 
+by random chance or systematic error?
+
+The Null Hypothosis
+The face that the mean of the hunted deer in MD is different than all 
+N.America is by chance and indistinguishable from noise. 
+
+I.E. Hy:mu=N.America.mean() otherwise, Hy:mu≠N.America.mean()
+
+
+
+
